@@ -1,1 +1,1 @@
-# Projet-Algo-Pok-mon
+# Projet-Algo-Pokemon
